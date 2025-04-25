@@ -81,7 +81,6 @@
 
 - [GitHub Docs (oficial)](https://docs.github.com)
 - [Pro Git Book (gratis)](https://git-scm.com/book/es/v2)
-- [GitHub Learning Lab](https://lab.github.com/)
 - [Cheat Sheet de Git (PDF)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ---
